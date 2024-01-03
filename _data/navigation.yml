@@ -1,0 +1,45 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: Thermodynamics
+    children:
+      - title: "Entropy vs. Enthalpy"
+        url: /docs/quick-start-guide/
+      - title: "Statistical Mechanics"
+        url: /thermodynamics/stat_mech/
+      - title: "Convex Hull and Phase Diagrams"
+        url: /docs/installation/
+      - title: "Chemistry because Why Not"
+        url: /docs/upgrading/
+
+  - title: Defect Chemistry
+    children:
+      - title: "Kroger-Vink Notation"
+        url: /docs/configuration/
+      - title: "Point Defects"
+        url: /docs/navigation/
+      - title: "Line Defects"
+        url: /docs/ui-text/
+      - title: "Wulf Shapes"
+        url: /docs/ui-text/
+
+  - title: Microstructure and Property
+    children:
+      - title: "Material Tensors"
+        url: /docs/configuration/
+      - title: "Grains"
+        url: /docs/navigation/
+      - title: "Heat Treatment"
+        url: /docs/ui-text/
+

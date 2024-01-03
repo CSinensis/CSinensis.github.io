@@ -1,0 +1,8 @@
+---
+layout: single
+title:  "Statistical Mechanics"
+permalink: /thermodynamics/stat_mech/
+---
+
+## Why Should I Know Stat Mech?
+Thermodynamics is full of uninuitive results. For those of us who have trouble wrapping 
